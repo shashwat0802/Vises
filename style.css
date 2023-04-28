@@ -21,3 +21,25 @@
   border: 1px solid #ECECEC;
   border-radius: 20px;
 }
+
+.rectangle {
+  background: #FFFFFF;
+  border: 1px solid #EFF1F1;
+  border-radius: 30px;
+  max-width: 407px;
+}
+
+.final-section{
+  background: linear-gradient(180deg, rgba(40, 187, 194, 0.65) 0%, rgba(49, 143, 183, 0.65) 100%);
+}
+
+.download-btn {
+  background: #000000;
+  border-radius: 18px;
+}
+
+.footer-line{
+  height: 1px;
+  opacity: 0.25;
+  background: linear-gradient(#28BBC2, #318FB7);
+}
